@@ -1,16 +1,38 @@
-# dollar_conv
+Flutter Currency Converter
+Welcome to the Flutter Currency Converter app! This app allows users to convert currencies using real-time exchange rates. It is built using Dart and Flutter.
 
-A new Flutter project.
+Features
+Real-time currency conversion
+Support for multiple currencies
+User-friendly interface
+Fast and reliable performance
+Screenshots
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Technologies Used
+Flutter
+Dart
+Getting Started
+Prerequisites
+Make sure you have Flutter and Dart installed on your machine. For detailed instructions, visit the Flutter installation guide.
 
-A few resources to get you started if this is your first Flutter project:
+Installation
+1. Clone the repository:
+  git clone https://github.com/your-username/flutter-currency-converter.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Navigate to the project directory:
+  cd flutter-currency-converter
+Running the App
+To run the app on an emulator or physical device, use the following command:
+3. Get the dependencies:
+  flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+API Key
+This app requires an API key to fetch real-time exchange rates.
+  flutter run
+
+
+
+
+
