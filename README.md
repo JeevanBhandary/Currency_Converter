@@ -32,7 +32,10 @@ To run the app on an emulator or physical device, use the following command:
 
 
 **API Key**  
-This app requires an API key to fetch real-time exchange rates.  
+This app requires an API key to fetch real-time exchange rates. Follow these steps to set up your API key:  
+
+1. Get your API key from https://app.exchangerate-api.com/.  
+2. Open lib\Secret.dart and add your API key:
 
 
 
