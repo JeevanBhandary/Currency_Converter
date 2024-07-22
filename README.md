@@ -24,8 +24,8 @@ Make sure you have Flutter and Dart installed on your machine. For detailed inst
   cd flutter-currency-converter
 
 4. Running the App  
+  To run the app on an emulator or physical device, use the following command:   
   flutter run    
-To run the app on an emulator or physical device, use the following command:
 
 6. Get the dependencies:  
   flutter pub get    
